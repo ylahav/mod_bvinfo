@@ -5,8 +5,8 @@
     <author>Yair Lahav</author>
     <authorEmail>yair@bonimba.co.il</authorEmail>
     <authorUrl>www.bonimba.co.il</authorUrl>
-    <copyright></copyright>
-    <license></license>
+    <copyright>Copyright (C) 2015 Yair Lahav. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <version>1.0.1</version>
     <description>MOD_BVINFO_XML_DESCRIPTION</description>
 
